@@ -1,1 +1,2 @@
 This demo has been deprecated. Please see [https://github.com/WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) for an up to date demo.
+[![Build Status](https://dev.azure.com/aksdemo2589/DevProject/_apis/build/status%2FDevProject-ASP.NET%20Core%20(.NET%20Framework)-CI?branchName=main)](https://dev.azure.com/aksdemo2589/DevProject/_build/latest?definitionId=12&branchName=main)
